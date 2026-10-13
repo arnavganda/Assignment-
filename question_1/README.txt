@@ -43,13 +43,13 @@ No external npm packages are required.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone "https://github.com/arnavganda/Assignment-.git"
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd <project-folder>
+cd question_1
 ```
 
 ### 3. Run the application
