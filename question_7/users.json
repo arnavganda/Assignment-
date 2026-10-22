@@ -1,0 +1,14 @@
+[
+  {
+    "id": "e3007198-7699-4381-9f21-82d17325dd26",
+    "username": "admin",
+    "password": "$2a$10$8lPNZNy8B4vNdGIVwIXus.sS.ruoG60pLM4Hf2rZ0f9cG1vmpinnG",
+    "role": "admin"
+  },
+  {
+    "id": "59974202-33d0-4c6a-9f16-2bb611619948",
+    "username": "normaluser",
+    "password": "$2a$10$df5gkKc9VGH.Uz.Viv4d2.UU35mKfKFcScSmhBOO2orjnvHrOhnBC",
+    "role": "user"
+  }
+]
