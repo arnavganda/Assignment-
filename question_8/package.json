@@ -1,0 +1,17 @@
+{
+  "name": "protected-users-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seeduser.js",
+    "generate": "node generateFile.js",
+    "process": "node processFile.js",
+    "cluster": "node cluster.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

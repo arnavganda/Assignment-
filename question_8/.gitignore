@@ -1,0 +1,5 @@
+node_modules/
+.env
+large-input.txt
+large-output.txt
+.DS_Store
